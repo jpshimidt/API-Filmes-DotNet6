@@ -17,8 +17,8 @@ cd API-Filmes-DotNet6
 dotnet restore
 ```
 
-Uso
+## Uso
 Após feito o clone do repositório,você deve entrar no Visual Studio e abrir o projeto "API-Filmes-DotNet6", com ele aberto há algumas opções para rodar o projeto, uma delas é apertando na seta verde escrito "FilmesAPI" ou "F5" do teclado.
 
-Licença
+## Licença
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para obter mais detalhes.
