@@ -1,4 +1,4 @@
-# API utilizando .NET 6
+# API Filmes .NET 6
 
 [![Licença](https://img.shields.io/badge/licença-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Versão](https://img.shields.io/badge/versão-1.0.0-green.svg)](https://github.com/seu-usuario/seu-repositorio/releases/tag/v1.0.0)
@@ -18,10 +18,7 @@ dotnet restore
 ```
 
 Uso
-Após feito o clone do repositório,você deve entrar no Visual Studio e abrir o projeto "API-Filmes-DotNet6", com ele aberto há duas opções para rodar o projeto, apertando na seta verde escrito "FilmesAPI" ou no 
-
-Contribuição
-Explique como os outros podem contribuir para o projeto. Inclua orientações sobre como criar problemas (issues), propor melhorias, enviar solicitações de recebimento (pull requests) e como configurar o ambiente de desenvolvimento para testar as alterações.
+Após feito o clone do repositório,você deve entrar no Visual Studio e abrir o projeto "API-Filmes-DotNet6", com ele aberto há algumas opções para rodar o projeto, uma delas é apertando na seta verde escrito "FilmesAPI" ou "F5" do teclado.
 
 Licença
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para obter mais detalhes.
